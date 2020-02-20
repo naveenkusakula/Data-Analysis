@@ -1,7 +1,7 @@
-# Sentiment & Simantic Analysis
+# Sentiment & Semantic Analysis
 
 1. SentimentAnalysis.py - Perform Sentiment Analysis on the extracted tweets and determine the polarity
-2. SimanticAnalysis.py - Perform Simantic Analysis on the extracted tweets
+2. SemanticAnalysis.py - Perform Semantic Analysis on the extracted tweets
 
 # Tweets ETL
 

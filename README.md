@@ -1,3 +1,8 @@
+# SENTIMENTANALYSIS
+
+1. SentimentAnalysis.py - Perform Sentiment Analysis on the extracted tweets and determine the polarity
+2. SimanticAnalysis.py - Perform Simantic Analysis on the extracted tweets using IDF and rank the 
+
 # Tweets ETL
 
 #### Cluster Setup:
@@ -69,7 +74,4 @@ stores count in output file
 3. Count.py – Count all the words count in the tweettext.txt
 and stores count in output file
 
-# SENTIMENTANALYSIS
 
-1. SentimentAnalysis.py - Perform Sentiment Analysis on the extracted tweets and determine the polarity
-2. SimanticAnalysis.py - Perform Simantic Analysis on the extracted tweets using IDF and rank the 
